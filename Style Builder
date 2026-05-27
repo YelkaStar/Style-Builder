@@ -1196,7 +1196,6 @@ select{background:#1d1d22;color:#e7e7ea;border:1px solid #2e2e36;border-radius:9
       </div>
     </div>
   </div>
-  <div class="hint">Листай стрелками <kbd>←</kbd> <kbd>→</kbd> на клавиатуре или кнопками · всего 50 стилей</div>
 </div>
 
 <script>
